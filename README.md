@@ -2,5 +2,5 @@ Spiral fractal is a lua based program i wrote , that works in command (console) 
 It utilizes Lua Jast-In-Time compiler luajit, parallel processing that requres opencl support,
 and image api that needs microsoft developer dlls :
 https://download.microsoft.com/download/0/6/4/064f84ea-d1db-4eaa-9a5c-cc2f0ff6a638/vc_redist.x64.exe.
-
+Download rar file if your GPU requires 64 bit, otherwise download and extract zip file.
 To try automatic generation of fractals using my program on windows run fractest.bat
